@@ -28,7 +28,7 @@ const path = require('path');
 const prefix = config.PREFIX;
 //const isReact = m.message.reactionMessage ? true : false
 
-const ownerNumber = ['923192173398'];
+const ownerNumber = ['919932790116'];
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/Unique_session/creds.json')) {
