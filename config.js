@@ -38,7 +38,7 @@ module.exports = {
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 
     // Bot mode (public or private), determines the visibility of the bot (default is 'private')
-    MODE: process.env.MODE || "private",
+    MODE: process.env.MODE || "public",
 
     // Automatically convert voice messages to text (default is 'false')
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
